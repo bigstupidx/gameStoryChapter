@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pack",
+				"packNumber"
+			],
+			[
+				"silver",
+				"silverRank"
+			],
+			[
+				"silv",
+				"silverSaleCost"
+			],
+			[
+				"man",
+				"manufacturerId"
+			],
+			[
+				"item",
+				"itemInformation"
+			],
+			[
+				"quan",
+				"quantityPerPurchase"
+			],
+			[
+				"Log",
+				"LoginViewModel"
+			],
+			[
+				"appl",
+				"applyBindings"
+			],
+			[
+				"go",
+				"goldRank"
+			],
+			[
+				"sil",
+				"silverRank"
+			],
+			[
+				"newGo",
+				"newGoldRank"
+			],
+			[
+				"newS",
+				"newSilverRank"
+			],
+			[
+				"newI",
+				"newItemType"
+			],
+			[
+				"itemT",
+				"itemType"
+			],
+			[
+				"newP",
+				"newPurchaseDependency"
+			],
+			[
+				"pu",
+				"purchaseDependency"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"M",
+				"manufacturerId"
+			],
+			[
+				"G",
+				"GoPlatEnvironment"
+			],
+			[
+				"user",
+				"useremail"
+			],
+			[
+				"qu",
+				"quantityPerPurchase"
+			],
+			[
+				"nu",
+				"numberItemsUpdated"
+			],
+			[
+				"itemi",
+				"itemid"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"str",
+				"stripeToken"
+			],
+			[
+				"foun",
+				"foundChangeRequest"
+			],
+			[
+				"change",
+				"changeRequest"
+			],
+			[
+				"Us",
+				"UserPasswordChangeRequest"
+			],
+			[
+				"ne",
+				"newUserVerification"
+			],
+			[
+				"veri",
+				"verificationId"
+			],
+			[
+				"ver",
+				"verification"
+			],
+			[
+				"creat",
+				"createNewInventory"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"User",
+				"UserVerification"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"S",
+				"SmtpTransport"
+			],
+			[
+				"currenc",
+				"currencyEntry"
+			],
+			[
+				"cu",
+				"currencyEntry"
+			],
+			[
+				"find",
+				"findWhere"
+			],
+			[
+				"email",
+				"emailAddress"
+			],
+			[
+				"pl",
+				"PlatformPort"
+			],
+			[
+				"plat",
+				"platformUrl"
+			],
+			[
+				"Pl",
+				"PlatformPort"
+			],
+			[
+				"p",
+				"platformUrl"
+			],
+			[
+				"send",
+				"sendAuthenticate"
+			],
+			[
+				"server",
+				"serverpassword"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"acc",
+				"accessGranted"
+			],
+			[
+				"add",
+				"addedToken"
+			],
+			[
+				"con",
+				"continuation"
+			],
+			[
+				"tok",
+				"expiredToken"
+			],
+			[
+				"se",
+				"serverError"
+			],
+			[
+				"toek",
+				"tokenFound"
+			],
+			[
+				"toe",
+				"tokenFound"
+			],
+			[
+				"token",
+				"tokenFound"
+			],
+			[
+				"return",
+				"returnCode"
+			],
+			[
+				"ret",
+				"retrieveServerItems"
+			],
+			[
+				"dir",
+				"dirtyFlag"
+			],
+			[
+				"obe",
+				"observableItems"
+			],
+			[
+				"sta",
+				"startingItems"
+			],
+			[
+				"num",
+				"numberItemsUpdate"
+			],
+			[
+				"g",
+				"goldSaleCost"
+			],
+			[
+				"ex",
+				"existingItem"
+			],
+			[
+				"it",
+				"itemToAddOrUpdate"
+			],
+			[
+				"respon",
+				"responseContinuation"
+			],
+			[
+				"dit",
+				"dirtyFlag"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"gold",
+				"goldSaleCost"
+			],
+			[
+				"o",
+				"originalAuthorization"
+			],
+			[
+				"game",
+				"gameHash"
+			],
+			[
+				"authen",
+				"authenticateWithPassword"
+			],
+			[
+				"auth",
+				"authenticateContinuation"
+			],
+			[
+				"resp",
+				"responseContinuation"
+			],
+			[
+				"pw",
+				"pwdContinuate"
+			],
+			[
+				"au",
+				"authenticateWithPassword"
+			],
+			[
+				"xp",
+				"xplatContinuation"
+			],
+			[
+				"Plat",
+				"PlatformPort"
+			],
+			[
+				"platform",
+				"PlatformURL"
+			],
+			[
+				"hash",
+				"hashString"
+			],
+			[
+				"player",
+				"playerId"
+			],
+			[
+				"ad",
+				"addLocal"
+			],
+			[
+				"updat",
+				"updatedRecord"
+			],
+			[
+				"userI",
+				"userIdentifier"
+			],
+			[
+				"os",
+				"osHash"
+			],
+			[
+				"inven",
+				"inventoryRecord"
+			],
+			[
+				"pla",
+				"playerid"
+			],
+			[
+				"get",
+				"getContinuation"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"time",
+				"timestampArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Resources/Act3.txt",
+			"settings":
+			{
+				"buffer_size": 65843,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Resources/Act2.txt",
+			"settings":
+			{
+				"buffer_size": 65232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Resources/Act1.txt",
+			"settings":
+			{
+				"buffer_size": 84159,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jared/Documents/CYOC/Act 1 Plan.txt",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Windows",
+				"name": "15% Dreamt of Cthulhu"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n",
+			"settings":
+			{
+				"buffer_size": 16471,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jared/Documents/CYOC/Assets/Resources/Act0.txt",
+		"/C/Users/Jared/Documents/CYOC/Assets/Act0.act",
+		"/C/Users/Jared/Downloads/documents-export-2014-08-06/GalaxyFactory.cs",
+		"/C/Users/Jared/Downloads/documents-export-2014-08-06/Galaxy.cs",
+		"/C/Users/Jared/Downloads/documents-export-2014-08-06/AsteroidBelt.cs",
+		"/C/Users/Jared/Desktop/Act0.dat",
+		"/C/Dev/OUServer/models/item.js",
+		"/C/Users/Jared/Documents/GitHub/Space/4xSpace/ProjectSettings/InputManager.asset",
+		"/C/Users/Jared/Desktop/Random notes",
+		"/C/Dev/OUServer/routes/purchase.js",
+		"/C/Dev/OUServer/models/score.js",
+		"/C/Dev/OUServer/routes/score.js",
+		"/C/Dev/OUServer/routes/inventory.js",
+		"/C/Dev/OUServer/platform.js",
+		"/C/Dev/OUServer/routes/items.js",
+		"/C/Dev/OUServer/public/scripts/outdoorUnlimitedServer.js",
+		"/C/Dev/OUServer/models/goldPack.js",
+		"/C/Dev/Platform/GO_Platform_Application.js",
+		"/C/Dev/Platform/tests/RequestHelper.py",
+		"/C/Users/Jared/nexus7.log",
+		"/C/Dev/OUServer/public/index.html",
+		"/C/Dev/OUServer/deployTest.bat",
+		"/C/Dev/OUServer/deployLive.bat",
+		"/C/Dev/OUServer/deployDev.bat",
+		"/C/Dev/OUServer/test.package.json",
+		"/C/Dev/OUServer/dev.package.json",
+		"/C/Dev/OUServer/live.package.json",
+		"/C/Dev/OUServer/public/scripts/baseUrl.js",
+		"/C/Dev/Platform/routes/users.js",
+		"/C/Dev/Platform/routes/tokens.js",
+		"/C/Dev/Platform/tests/utilityAddDropHelper.py",
+		"/C/Dev/Platform/tests/EnvironmentSwitcher.py",
+		"/C/Dev/OUServer/OU_Server_Application.js",
+		"/C/Users/Jared/Downloads/jquery-validation-1.12.0/README.md",
+		"/C/Dev/OUServer/public/scripts/jquery.cookie.js",
+		"/C/Users/Jared/Desktop/OU Item List 1.csv",
+		"/C/Users/Jared/Downloads/SSU1- Content Database for GO - Master Item List.csv",
+		"/C/Dev/OUServer/tests/utilityAddDropHelper.py",
+		"/C/Dev/Platform/dev.package.json",
+		"/C/Dev/Platform/routes/transactions.js",
+		"/C/Dev/Platform/tests/testUsers.py",
+		"/C/Dev/Platform/events.js",
+		"/C/Dev/OUServer/events.js",
+		"/C/Dev/Platform/routes/time.js",
+		"/C/Dev/Platform/test.package.json",
+		"/C/Dev/Platform/live.package.json",
+		"/C/Dev/Platform/logger.js",
+		"/C/Dev/Platform/config.js",
+		"/C/Dev/OUServer/tests/testInventory.py",
+		"/C/Dev/Platform/models/user.js",
+		"/C/Dev/Platform/models/userVerifications.js",
+		"/C/Dev/Platform/models/userPasswordChangeRequest.js",
+		"/C/Dev/Platform/routes/purchase.js",
+		"/C/Dev/Platform/routes/userVerifications.js",
+		"/C/Dev/OUServer/tests/RequestHelper.py",
+		"/C/Dev/OUServer/models/inventory.js",
+		"/C/Dev/OUServer/tests/testScore.py",
+		"/C/Dev/OUServer/routes/experience.js",
+		"/C/Dev/OUServer/models/experience.js",
+		"/C/Dev/OUServer/models/silver.js",
+		"/C/Dev/OUServer/models/gold.js",
+		"/C/Dev/OUServer/tests/EnvironmentSwitcher.py",
+		"/C/Dev/OUServer/routes/gold.js",
+		"/C/Dev/OUServer/routes/silver.js",
+		"/C/Dev/Platform/models/transaction.js",
+		"/C/Dev/Platform/routes/index.js",
+		"/C/Dev/Platform/tests/testTransactions.py",
+		"/C/Dev/Platform/routes/crossPlatformAuthentication.js",
+		"/C/Dev/Platform/tests/testUserPassword.py",
+		"/C/Dev/Platform/models/token.js",
+		"/C/Dev/OUServer/tests/testExperience.py",
+		"/C/Dev/OUServer/tests/runAllTests.py",
+		"/C/Dev/OUServer/node_modules/request/request.js",
+		"/C/Dev/OUServer/tests/testGold.py",
+		"/C/Dev/OUServer/tests/testSIlver.py",
+		"/C/Dev/Platform/tests/testTimeEndPoint.py",
+		"/C/Dev/OUServer/node_modules/request/README.md",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/silver.js",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/experience.js",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/gold.js",
+		"/C/Users/Jared/Documents/iEntPlatform/models/score.js",
+		"/C/Users/Jared/Documents/iEntPlatform/dev.package.json",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/users.js",
+		"/C/Users/Jared/Documents/iEntPlatform/app.js",
+		"/C/Users/Jared/Documents/iEntPlatform/models/item.js",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/index.js",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/dateScrap.py",
+		"/C/Users/Jared/Documents/iEntPlatform/models/user.js",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/testUsers.py",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/utilityAddDropHelper.py",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/crossPlatformAuthentication.js",
+		"/C/Users/Jared/Documents/iEntPlatform/deployTest.bat",
+		"/C/Users/Jared/Documents/iEntPlatform/test.package.json",
+		"/C/Users/Jared/Documents/iEntPlatform/.gitignore",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/RequestHelper.py",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/score.js",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/testSIlver.py",
+		"/C/Program Files (x86)/iEnt/Outdoors Unlimited/Data/Startup.lua",
+		"/C/Program Files (x86)/iEnt/Outdoors Unlimited/Data/AmmoData.dat",
+		"/C/Users/Jared/Documents/iEntPlatform/package.json",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/objectId.js",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/testSIlver",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/transactions.js",
+		"/C/Users/Jared/Documents/iEntPlatform/routes/inventory.js",
+		"/C/Users/Jared/Desktop/RequestHelper - Copy.py",
+		"/C/Users/Jared/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/testExperience.py",
+		"/C/Users/Jared/Documents/iEntPlatform/models/inventory.js",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/testInventory.py",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/runAllTests.py",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/testTimeEndPoint.py",
+		"/C/Users/Jared/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jared/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Jared/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Jared/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/Jared/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/isotime.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/isodatetime.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/README.rst",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/tests/test_datetime.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/tests/test_duration.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/tests/test_strf.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/tests/test_pickle.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/tests/test_time.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/tests/test_date.py",
+		"/C/Users/Jared/Downloads/isodate-0.5.0.tar/dist/isodate-0.5.0/isodate-0.5.0/src/isodate/tests/__init__.py",
+		"/C/Users/Jared/Documents/iEntPlatform/tests/testAddInventory.py",
+		"/C/Users/Jared/Documents/iEntPlatform/models/transaction.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Dev\\Platform",
+			"C:\\Dev\\OUServer",
+			"C:\\Dev\\Platform",
+			"C:\\Dev\\OUServer",
+			"C:\\Dev\\Platform",
+			"C:\\Dev\\OUServer\\routes",
+			"<open folders>,C:\\Users\\Jared\\Documents\\iEntPlatform\\routes",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"skull",
+			"ADD_FLAG",
+			"mytho",
+			"mythos",
+			"Old Oil Lantern",
+			"Knife Taken",
+			"HAVE_ITEM",
+			"study",
+			"\"",
+			"addTransaction",
+			"add",
+			"Transactions.addLocalTransaction",
+			"console.log",
+			"metric",
+			"mygogames.squarespace.com",
+			"body",
+			"unable to find silver",
+			".addTransaction",
+			"Platform.authenticate",
+			".verify",
+			"addTransaction",
+			"json",
+			"userIdentifier",
+			"request, response, user",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Resources/Act3.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4340,
+								4397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Resources/Act2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								813,
+								813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Resources/Act1.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58316,
+								58316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 14354.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Jared/Documents/CYOC/Act 1 Plan.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_name": "15% Dreamt of Cthulhu",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16471,
+								16471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "CYOC_Acts.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
